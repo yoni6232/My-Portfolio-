@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {  WhatsappIcon} from 'react-share'
 
 class About extends Component {
   render() {
@@ -32,9 +33,16 @@ class About extends Component {
 						   <span>
 						         {city} {state},
                    </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
+						   <span>{phone} <br/><a href={"https://wa.me/+972525379476/?text="}>
+          <WhatsappIcon
+            size={"2.5rem"}
+            round={true}
+          />
+          </a></span><br/>
+
+                     <span>{email} </span>
 					   </p>
+                  
                </div>
                <div className="columns download">
                   <p>
