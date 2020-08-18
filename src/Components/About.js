@@ -29,7 +29,7 @@ class About extends Component {
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
-                  <p className="address">
+                  <p className="address" style={{color:'white'}}>
 						   <span>{name}</span><br />
 						   <span>
 						         {city} {state},
