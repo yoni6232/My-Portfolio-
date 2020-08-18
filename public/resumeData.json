@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name":"Yonatan Mahluf",
+    "occupation":"(Your Occupation Here)",
+    "description":"React Full Stack Web Developer with 1 year experience.",
+    "description1":"Fourth year software engineering student.",
+    "description2":"I am hard-worker and Fast learner.",
+    "description3":"Looking for junior position in Israel",
+    "image":"profilepic.jpg",
+    "bio":"My name is Yonatan, I am 28 years old, most of my life I have been involved in computers, whether it is disassembling an assembly or upgrading hardware and software systems, today I am in my fourth year at Sami Shamoon College in the cyber security, I am currently studying independently Web development (server side and client side).Currently, I am available for any type of job that will challenge me and give me more experience in the software world.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "yoni6232@gmail.com",
+    "phone": "+972 52-537-9476",
+    "address":{
+      "city":"Lehavim",
+      "state":"Israel"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1Tsip3V6-vEX-2TUBhI0WIAMHshN04QgK/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/yoni.mahlof",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ymahluf/",
+        "className":"fa fa-linkedin"
+      },
+    
+      {
+        "name":"github",
+        "url":"https://github.com/yoni6232?tab=repositories",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Sami Shamoon College of engineering",
+        "degree":"B.Sc Software engineering student",
+        "graduated":"october 2021",
+        "description":"• Major: Cyber security. GPA: 85.",
+        "description1":"• IMPACT scholarship participant"
+
+      },
+      {
+        "school":"Ness College",
+        "degree":"MCSA & CCNA",
+        "graduated":"2015",
+        "description":"Professional System & Network Administrator."
+      }
+    ],
+    "work":[
+      {
+        "company":"Vlancer",
+        "title":"Full Stack developer",
+        "years":"february 2020 - Present",
+        "description":"Internship at Vlancer as Intern team leader.",
+        "description1":"• Client Side :  develop with React.js using Redux,Bootstrap",
+        "description2":"• Server Side : develop with Node.js with MongoDB as Data Base",
+        "description3":"• Used PUTTY for debugging and connect to my remote files in server securely using SSH Encryption (public key and private key)",
+        "description4":"•Working knowledge of HTML/CSS/GitLab"
+      },
+      {
+        "company":"BGPC",
+        "title":"PC and Cellular Technician",
+        "years":"March 2017 - Present",
+        "description":"Repairing and Upgrading Computers and cellular software and hardware.",
+        "description1":"Working with both Suppliers and Customers",
+        "description2":"General Store Management"
+
+      },
+      {
+        "company":"TECHNO-EL",
+        "title":"Printer Repair an Installation Technician",
+        "years":"2016 - 2017",
+        "description1":"Installing, Repairing Printers.",
+        "description":"Field Technician"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"BSport",
+        "category":"Social network for Sports events, using: Android Studio, Java and Firebase.",
+        "image":"BSport.jpg",
+        "url":"https://www.youtube.com/watch?v=Mc7Z8zyrLYc&feature=youtu.be"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://yonatan-mahluf-portfolio.netlify.app/"
+      },
+      {
+        "title":"Barbar Shop",
+        "category":"Web app for Barbar using : Frontend:React.js | Backend:Node.js + Express | DB:MongoDB (Still in maintenance)",
+        "image":"barbarshop.jpg",
+        "url":"https://github.com/yoni6232/barbarshop"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
