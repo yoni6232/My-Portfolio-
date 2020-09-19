@@ -240,6 +240,7 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -431,7 +432,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { margin-bottom: 50px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
@@ -470,7 +471,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
-   height: 30px;
+   height: 50px;
    width: 30px;
    font-size: 18px;
    line-height: 30px;

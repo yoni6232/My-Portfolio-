@@ -13,13 +13,15 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var GradeDownload = this.props.data.GradeDownload;
+
     }
 
     return (
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Yonatan  Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -47,6 +49,7 @@ class About extends Component {
                <div className="columns download">
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={GradeDownload} className="button"><i className="fa fa-download"></i>Download Grade Sheet</a>
                   </p>
                </div>
             </div>

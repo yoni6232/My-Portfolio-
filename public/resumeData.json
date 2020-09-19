@@ -7,7 +7,7 @@
     "description2":"I am hard-worker and Fast learner.",
     "description3":"Looking for junior position",
     "image":"profilepic.jpg",
-    "bio":"My name is Yonatan, I am 28 years old, most of my life I have been involved in computers whether it is disassembling an assembly or upgrading hardware and software systems, today I am in my fourth year at Sami Shamoon College majoring in Cyber security field, I am currently studying independently Web development (server side and client side).Currently, I am available for any type of job that will challenge me and give me more experience in the software world.",
+    "bio":"My name is Yonatan, I am 28 years old, most of my life I have been involved in computers whether it is disassembling an assembly or upgrading hardware and software systems, today I am in my fourth year at Sami Shamoon College majoring in Cyber security field, I am currently studying independently Web development (Server side : React.Js,React native) and (Client side : NodeJs,Express,Django,Python DB:MongoDB,FireBase).Currently, I am available for any type of job that will challenge me and give me more experience in the software world.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "yoni6232@gmail.com",
     "phone": "+972 52-537-9476",
@@ -15,7 +15,8 @@
       "city":"Lehavim",
       "state":"Israel"
     },
-    "resumedownload":"https://drive.google.com/file/d/1Tsip3V6-vEX-2TUBhI0WIAMHshN04QgK/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1qvTOALcOunvxGN0yo7oC3cFM8uuMptUt/view?usp=sharing",
+    "GradeDownload": "https://drive.google.com/file/d/1ibRnKyetTbz0-bpGNOPEHcNGYi0FPkVk/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -43,7 +44,10 @@
         "degree":"B.Sc Software engineering student",
         "graduated":"october 2021",
         "description":"• Major: Cyber security. GPA: 85.",
-        "description1":"• IMPACT scholarship participant"
+        "description1":"• IMPACT scholarship participant",
+        "des" : "Final Project",
+        "description2":"in collaboration with Dell EMC, the main task is to develop a system that offer a method and a process for military, government of financial institutes to delegate and outsource the development of statistical and ML based applications, without violating the confidentiality and privacy of their data."
+
 
       },
       {
@@ -103,10 +107,16 @@
         "url":"https://github.com/yoni6232/College-department-Website"
       },
       {
-        "title":"Barbar Shop",
-        "category":"Web app for Barbar using : Frontend:React.js | Backend:Node.js + Express | DB:MongoDB (Still in maintenance)",
-        "image":"barbarshop.jpg",
-        "url":"https://github.com/yoni6232/barbarshop"
+        "title":"Movie Rater WebSite",
+        "category":"Movie Rater Website using : Frontend:React.js | Backend:Django Python | DB:SQLite ",
+        "image":"movieraterweb.jpg",
+        "url":"https://github.com/yoni6232/Movie-Rater-WebSite"
+      },
+      {
+        "title":"Movie Rater App",
+        "category":"Movie Rater App using : Frontend:React Native | Backend:Django Python | DB:SQLite ",
+        "image":"movieapp.jpg",
+        "url":"https://github.com/yoni6232/Movie-Rater-App"
       }
     ]
   },
