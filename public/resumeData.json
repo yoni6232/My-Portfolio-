@@ -15,7 +15,7 @@
       "city":"Lehavim",
       "state":"Israel"
     },
-    "resumedownload":"https://drive.google.com/file/d/1qvTOALcOunvxGN0yo7oC3cFM8uuMptUt/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1AIJ85Xv8X9OwX7Mbzy0bEHA6hVxiSQcG/view?usp=sharing",
     "GradeDownload": "https://drive.google.com/file/d/1ibRnKyetTbz0-bpGNOPEHcNGYi0FPkVk/view?usp=sharing",
     "social":[
       {
@@ -114,8 +114,14 @@
       },
       {
         "title":"Movie Rater App",
-        "category":"Movie Rater App using : Frontend:React Native | Backend:Django Python | DB:SQLite ",
+        "category":"Movie Rater App using : Frontend:React Native with expo| Backend:Django Python | DB:SQLite ",
         "image":"apprate.gif",
+        "url":"https://github.com/yoni6232/Movie-Rater-App"
+      },
+      {
+        "title":"Barber Shop App",
+        "category":"Movie Rater App using : Frontend:React Native with expo| Backend:Django Python | DB:SQLite ",
+        "image":"barbergif.gif",
         "url":"https://github.com/yoni6232/Movie-Rater-App"
       }
     ]
